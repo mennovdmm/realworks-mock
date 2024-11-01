@@ -1,0 +1,95 @@
+{
+  "statusCode": 200,
+  "data": [
+    {
+      "korteOmschrijving": "De Perponcherstraat 79",
+      "locatie": "2518 SP Den Haag De Perponcherstraat 79",
+      "status": "Definitief",
+      "eventType": "1e bezichtiging",
+      "eventDate": "01-11-2024",
+      "eventTime": "14:00",
+      "object": {
+        "houseNumber": {
+          "number": 79,
+          "extension": null,
+          "show": true
+        },
+        "street": "De Perponcherstraat",
+        "city": "Den Haag",
+        "zipCode": "2518 SP",
+        "state": "Zuid-Holland",
+        "country": "Nederland",
+        "id": "671baa08bea2b4d7b9f51069",
+        "url": "https://www.doenmakelaars.com/make/object/671baa08bea2b4d7b9f51069"
+      },
+      "customer": {
+        "name": "Menno Test 1",
+        "email": "menno.vdm@gmail.com"
+      },
+      "realtor": {
+        "name": "Ron",
+        "email": "ron@doenmakelaars.com"
+      }
+    },
+    {
+      "korteOmschrijving": "Johannes Camphuijsstraat 82",
+      "locatie": "2593 SP Den Haag Johannes Camphuijsstraat 82",
+      "status": "Definitief",
+      "eventType": "1e bezichtiging",
+      "eventDate": "01-11-2024",
+      "eventTime": "15:00",
+      "object": {
+        "houseNumber": {
+          "number": 82,
+          "extension": null,
+          "show": true
+        },
+        "street": "Johannes Camphuijsstraat",
+        "city": "Den Haag",
+        "zipCode": "2593 SP",
+        "state": "Zuid-Holland",
+        "country": "Nederland",
+        "id": "6708d2a5242d93d8b1757860",
+        "url": "https://www.doenmakelaars.com/make/object/6708d2a5242d93d8b1757860"
+      },
+      "customer": {
+        "name": "Menno Test 2",
+        "email": "pocketsciencehq@gmail.com"
+      },
+      "realtor": {
+        "name": "Sebastiaan",
+        "email": "sebastiaan@doenmakelaars.com"
+      }
+    },
+    {
+      "korteOmschrijving": "Schalk Burgerstraat 85",
+      "locatie": "2524 LH Den Haag Schalk Burgerstraat 85",
+      "status": "Definitief",
+      "eventType": "1e bezichtiging",
+      "eventDate": "01-11-2024",
+      "eventTime": "16:00",
+      "object": {
+        "houseNumber": {
+          "number": 85,
+          "extension": null,
+          "show": true
+        },
+        "street": "Schalk Burgerstraat",
+        "city": "Den Haag",
+        "zipCode": "2524 LH",
+        "state": "Zuid-Holland",
+        "country": "Nederland",
+        "id": "6720b7d1d041a3b5f5cb7a35",
+        "url": "https://www.doenmakelaars.com/make/object/6720b7d1d041a3b5f5cb7a35"
+      },
+      "customer": {
+        "name": "Menno Test 3",
+        "email": "dathuistest@gmail.com"
+      },
+      "realtor": {
+        "name": "Ron",
+        "email": "ron@doenmakelaars.com"
+      }
+    }
+  ]
+}
